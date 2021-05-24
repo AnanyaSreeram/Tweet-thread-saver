@@ -39,7 +39,7 @@ BFH/recEmCbrriOKKFSXF/2021
 
 8.pathlib - 1.0.1(extras)
 
-## How to configure
+## How to configure?
 step 1: In order to develop a twitter bot with the same functionality, one must apply for a twitter developer account which can either get acceptance in 1 or maximum 2 days.
         After applying for dev account one may obtain a mail verification mail and 1/2 other mails from the Twitter Developer Account regarding the same.
         Once the developer account gets confirmed the person will get a sanctioned mail giving the accessibilty to the same.
@@ -48,7 +48,7 @@ step 2: One must sign in to the deveoper portal create a app with certain basic 
 
 step 3: Another important part is the installation of tweepy library which is a Python library for accessing the Twitter API. It is great for simple automation and creating           twitter bots.Further installation of python libraries and coding should be done.
 
-## How to run
+## How to run?
 step 4: After the successful coding part in order to test the working of twitter bot the user must keep another handy twitter account for the same.
 
 step 5: From the other account tag the twitter bot created on a tweet thread for testing.
