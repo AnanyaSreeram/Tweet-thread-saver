@@ -57,7 +57,7 @@ step 5: From the other account tag the twitter bot created on a tweet thread for
 step 6: While running the program and testing from the other account, one must make sure to follow the twitter bot from the other account or else allow the settings of               accepting direct messages from everyone.
 
 step 7: In order to confirm the program's successful run its best recommended to install twitter app and check whether the thread/tweet in which you
-        tagged the bot pops up in you dm or not:)..        
+        tagged the bot pops up in your dm or not:)..        
         
 
 
