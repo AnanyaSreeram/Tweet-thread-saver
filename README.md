@@ -18,6 +18,7 @@ BFH/recEmCbrriOKKFSXF/2021
 
 
 ## How it works?
+ The deployed website on heroku shows some application error.But the bot works fine, the user is able to get the required tweet/thread as a dm.
 1.This twitter bot namely @tweet_neat_ works on getting tagged.It responds to the mentioned tweets and accesses the particular tweets id and the text enrolled and sends the same to the user as a direct message via a user id which it fetches on getting tagged.Please avoid tagging on tweets with images, vidoes and emojis.This bot works for tweets with text messages only.
 
 2.Since twitter has a prerequiste that two user accounts must follow each other in other to retrieve, get and post direct messages, our bot at first checks whether the user accounts are mutually following each other or not.In order to post direct messages it uses a function follow() in case the user isnt being followed. And that is how the tweet/thread is sent to the authenticated user via dm.
