@@ -18,7 +18,7 @@ BFH/recEmCbrriOKKFSXF/2021
 
 
 ## How it works?
-1.This twitter bot namely @tweet_neat_ works on getting tagged.It responds to the mentioned tweets and accesses the particular tweets id and the text enrolled and sends the same to the user as a direct message via a user id which it fetches on getting tagged.
+1.This twitter bot namely @tweet_neat_ works on getting tagged.It responds to the mentioned tweets and accesses the particular tweets id and the text enrolled and sends the same to the user as a direct message via a user id which it fetches on getting tagged.Please avoid tagging on tweets with images, vidoes and emojis.This bot works for tweets with text messages only.
 
 2.Since twitter has a prerequiste that two user accounts must follow each other in other to retrieve, get and post direct messages, our bot at first checks whether the user accounts are mutually following each other or not.In order to post direct messages it uses a function follow() in case the user isnt being followed. And that is how the tweet/thread is sent to the authenticated user via dm.
 
@@ -51,7 +51,7 @@ step 3: Another important part is the installation of tweepy library which is a 
 ## How to run?
 step 4: After the successful coding part in order to test the working of twitter bot the user must keep another handy twitter account for the same.
 
-step 5: From the other account tag the twitter bot created on a tweet thread for testing.
+step 5: From the other account tag the twitter bot created on a tweet thread for testing.Please avoid tagging on tweets with images, vidoes and emojis.This bot works for             tweets with text messages only and sends them to the authenticated user via dm.
 
 step 6: While running the program and testing from the other account, one must make sure to follow the twitter bot from the other account or else allow the settings of               accepting direct messages from everyone.
 
